@@ -1,0 +1,8 @@
+================ RESUMO DA VENDA ================
+Cliente: Joana
+Vendedor: Roberto
+Produto: PS5
+Valor Original: R$ 6000.00
+Valor Final: R$ 6900.00
+Forma de Pagamento: Parcelado em 24x de R$ 287.50
+=================================================
